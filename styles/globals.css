@@ -1,6 +1,7 @@
 html {
   background-color: black;
 }
+
 body{
   opacity: 0;
   transition: opacity 2s;
@@ -9,7 +10,6 @@ body{
   margin: 0;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
   Bitstream Vera Sans Mono, Courier New, monospace;
-  background-color: #849ba1;
   background-image:
     linear-gradient(
       to right,
