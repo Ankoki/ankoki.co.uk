@@ -1,11 +1,21 @@
-html,
-body {
+html {
+  background-color: black;
+}
+body{
+  opacity: 0;
+  transition: opacity 2s;
+  -webkit-transition: opacity 2s; /* Safari */
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+  Bitstream Vera Sans Mono, Courier New, monospace;
+  background-color: #849ba1;
+  background-image:
+    linear-gradient(
+      to right,
+      #164A41, #4D774E
+    );
 }
-
 a {
   color: inherit;
   text-decoration: none;
