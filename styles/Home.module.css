@@ -118,27 +118,29 @@
 }
 
 .logo {
-    height: 60px;
+    max-width: 100%;
+    height: auto;
     padding-left: 12.5px;
     padding-right: 12.5px;
+
     transition: 0.45s;
     color: #FFFFFF;
 }
 
 .logo:hover {
-    color: #563727;
+    color: #DE9E48;
 }
 
 .center {
     color: #FFFFFF;
-    font-family: ui-rounded;
+    font-family: Futura, serif;
     font-size: 1.05rem;
     text-align: center;
 }
 
 .typist {
     padding-top: 8px;
-    font-family: fangsong;
+    font-family: Futura, serif;
     color: #DE9E48;
     font-size: 1.3rem;
     text-align: center;
@@ -163,9 +165,8 @@
 
 .ul {
     list-style-type: none;
-    margin: 0;
     text-align: center;
-    margin-top: 10%;
+    margin: 10% 0 0;
 }
 
 .ul li {

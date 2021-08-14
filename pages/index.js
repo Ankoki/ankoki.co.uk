@@ -43,8 +43,8 @@ export default function Home() {
                 <p className={styles.center}>
                     I am a student and enjoy developing projects in Java when I have the time!<br/>
                     You could check out some of my recent projects by visiting my GitHub!<br/>
-                    It is linked along with my other socials at the bottom of the page.<br/>
-                    Thank you for visiting my site ^.^
+                    It is linked along with my other socials at the bottom of the page.<br/><br/>
+                    Thank you for reading !
                 </p>
             </main>
 
