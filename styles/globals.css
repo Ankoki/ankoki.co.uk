@@ -1,26 +1,10 @@
 html {
-  background-color: black;
+  background-color: #372C2E;
 }
 
 body{
-  opacity: 1;/*0;
-  transition: opacity 2s;
-  -webkit-transition: opacity 2s; /* Safari */
   padding: 0;
   margin: 0;
   font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
   Bitstream Vera Sans Mono, Courier New, monospace;
-  background-image:
-    linear-gradient(
-      to right,
-      #372C2E, #372C2E
-    );
-}
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
 }

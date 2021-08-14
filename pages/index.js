@@ -7,10 +7,7 @@ import {faGithub, faTwitter, faSpotify, faDiscord, faTwitch} from '@fortawesome/
 // noinspection JSUnusedGlobalSymbols
 export default function Home() {
     return (
-        <div className={styles.container}/* onLoad={() => {
-            document.body.style.opacity = '1'
-            document.body.style.color = '#164A41'
-        }}*/>
+        <div className={styles.container}>
 
             <head>
                 <title>Ankoki | Jay</title>
@@ -41,10 +38,11 @@ export default function Home() {
                     England!
                 </Typist>
                 <p className={styles.center}>
-                    I am a student and enjoy developing projects in Java when I have the time!<br/>
-                    You could check out some of my recent projects by visiting my GitHub!<br/>
-                    It is linked along with my other socials at the bottom of the page.<br/><br/>
-                    Thank you for reading !
+                    I am currently a student and enjoy developing projects in Java when I have the time!<br/>
+                    You could check out some of my recent projects by visiting my personal GitHub.<br/>
+                    You can find it linked along with my other socials at the bottom of the page.<br/><br/>
+                    <span className={styles.typist}>« Stan ITZY »</span><br/><br/>
+                    <span className={styles.center}>Thanks for reading ^.^</span>
                 </p>
             </main>
 
