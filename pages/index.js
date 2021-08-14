@@ -38,7 +38,10 @@ export default function Home() {
                     England!
                 </Typist>
                 <p className={styles.center}>
-                    I am currently a student and enjoy developing projects in Java when I have the time!<br/>
+                    I am currently a student and enjoy developing projects in Java when I have the time!<br/><br/>
+                    Projects I like to take include: <br/>
+                    - Discord Bots <br/>
+                    - Minecraft Plugins <br/><br/>
                     You could check out some of my recent projects by visiting my personal GitHub.<br/>
                     You can find it linked along with my other socials at the bottom of the page.<br/><br/>
                     <span className={styles.typist}>« Stan ITZY »</span><br/><br/>
