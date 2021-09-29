@@ -31,6 +31,7 @@ export default function Home() {
                     }}>My name is Jay, I'm 18 and from Earth!
                     <Typist.Delay ms={500}/>
                     <Typist.Backspace count={6} delay={500}/>
+                    <Typist.Delay ms={500}/>
                     Britain!
                     <Typist.Delay ms={500}/>
                     <Typist.Backspace count={8} delay={500}/>
