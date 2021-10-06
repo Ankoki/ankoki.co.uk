@@ -28,9 +28,10 @@ export default function Home() {
                         element: "|",
                         hideWhenDone: true,
                         hideWhenDoneDelay: 0,
-                    }}>My name is Jay, I'm 18 and from Earth!
+                    }}>My name is Jay, I'm 18 and from Europe!
                     <Typist.Delay ms={500}/>
                     <Typist.Backspace count={6} delay={500}/>
+                    <Typist.Delay ms={500}/>
                     Britain!
                     <Typist.Delay ms={500}/>
                     <Typist.Backspace count={8} delay={500}/>
@@ -38,7 +39,7 @@ export default function Home() {
                     England!
                 </Typist>
                 <p className={styles.center}>
-                    I am currently a student and enjoy developing projects in Java when I have the time!<br/><br/>
+                    I currently work full-time at a bar in York and enjoy developing projects in Java when I have the time!<br/><br/>
                     Projects I like to take include: <br/>
                     - Discord Bots <br/>
                     - Minecraft Plugins <br/><br/>
