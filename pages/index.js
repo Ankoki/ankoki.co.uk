@@ -30,7 +30,7 @@ export default function Home() {
                         hideWhenDoneDelay: 0,
                     }}>My name is Jay, I'm 18 and from Europe!
                     <Typist.Delay ms={500}/>
-                    <Typist.Backspace count={6} delay={500}/>
+                    <Typist.Backspace count={7} delay={500}/>
                     <Typist.Delay ms={500}/>
                     Britain!
                     <Typist.Delay ms={500}/>
