@@ -28,7 +28,7 @@ export default function Home() {
                         element: "|",
                         hideWhenDone: true,
                         hideWhenDoneDelay: 0,
-                    }}>My name is Jay, I'm 18 and from Europe!
+                    }}>My name is Jay, I'm 19 and from Europe!
                     <Typist.Delay ms={500}/>
                     <Typist.Backspace count={7} delay={500}/>
                     <Typist.Delay ms={500}/>
