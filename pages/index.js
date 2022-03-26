@@ -42,9 +42,11 @@ export default function Home() {
                     I currently work full-time at a bar in York and enjoy developing projects in Java when I have the time!<br/><br/>
                     Projects I like to take include: <br/>
                     - Discord Bots <br/>
-                    - Minecraft Plugins <br/><br/>
+                    - Minecraft Plugins <br/>
+                    - Utility Libraries<br/><br/>
                     You could check out some of my recent projects by visiting my personal GitHub.<br/>
-                    You can find it linked along with my other socials at the bottom of the page.<br/><br/>
+                    You can find it linked along with my other socials at the bottom of the page.<br/>
+                    I also take commissions! Reach out through <a href={"https://discord.gg/quartz"}>the Quartz Discord!</a><br/><br/>
                     <span className={styles.typist}>« Stan ITZY »</span><br/><br/>
                     <span className={styles.center}>Thanks for reading ^.^</span>
                 </p>
@@ -53,7 +55,7 @@ export default function Home() {
             <footer className={styles.footer}>
                 <a href="https://discord.gg/3RWFg2xDBF" target="_blank" className={styles.logo}><FontAwesomeIcon
                     icon={faDiscord}/></a>
-                <a href="https://github.com/Ankoki-Dev" target="_blank" className={styles.logo}><FontAwesomeIcon
+                <a href="https://github.com/Ankoki" target="_blank" className={styles.logo}><FontAwesomeIcon
                     icon={faGithub}/></a>
                 <a href="https://open.spotify.com/user/2mauo1ot2h9agsixazyb0cps3?si=dcaab9a0c8c44e38" target="_blank"
                    className={styles.logo}><FontAwesomeIcon icon={faSpotify}/></a>
