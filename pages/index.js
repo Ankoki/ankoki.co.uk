@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <body>
             <head>
-                <title>Ankoki | Ella</title>
+                <title>Ankoki | Jay</title>
                 <link rel="icon" href="/favicon.ico"/>
                 <meta charSet="UTF-8"/>
                 <meta name="author" content="Ankoki"/>
@@ -36,12 +36,12 @@ export default function Home() {
 
                 <div id={styles.contentContainer}>
                     <div id="aboutMe">
-                        <h1 className={styles.leftTitle}>ELLA | ANKOKI</h1>
+                        <h1 className={styles.leftTitle}>Jay | ANKOKI</h1>
                         <br></br>
                         <br></br>
                         <img className={styles.leftImage} src="/laptop.png" alt="Laptop"></img>
                         <p className={styles.leftO}>
-                            I'm 20 and I currently attend University. <br></br>
+                            I'm 22 and I currently attend University. <br></br>
                             I am currently studying Computer Science at the University of Brighton, and I'm in my first year.
                         </p>
                         <p className={styles.leftO}>
